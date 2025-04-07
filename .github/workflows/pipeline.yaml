@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 
 env:
-  REPOSITORY: quasarcelestio/task:1.0
+  REPOSITORY: quasarcelestio/task-1.0
 
 jobs:
   deploy:
